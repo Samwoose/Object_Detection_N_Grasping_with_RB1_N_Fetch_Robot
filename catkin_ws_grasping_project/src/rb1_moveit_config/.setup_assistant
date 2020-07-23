@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/user/catkin_ws/src/rb1_robot_mico_3fg.urdf.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/rb1.srdf
+  CONFIG:
+    author_name: samwoo seong
+    author_email: samwoose@gmail.com
+    generated_timestamp: 1594273243
